@@ -2,6 +2,7 @@
 
 API rest para el proyecto de voluntiado universitario 2017  - UNCOMA
 
+Trello con la lista de actividades del proyecto: [Tablero](https://trello.com/b/gpTbvjgA/voluntariado)
 ## Run instructions
 
 Para ejecutar la api rest debe: 
